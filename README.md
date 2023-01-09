@@ -1,1 +1,1 @@
-# stocksmachinelearning
+# Predict Stocks using Machine Learning
