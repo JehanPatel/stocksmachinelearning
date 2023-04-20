@@ -22,3 +22,8 @@ pandas-datareader
 ```bash
 pip install pandas-datareader
 ```
+
+## Installation
+- Download the repository as a .zip file.
+- After downloading, extract all the files to the same folder.
+- Run `Stock ML.py` and it will work fine.
