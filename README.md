@@ -3,6 +3,8 @@ A Machine Learning Model which predicts moving averages using data available on 
 
 ## Install Modules
 
+**Note:** Check your internet connection before running the program in order for it to work properly.
+
 numpy
 ```bash
 pip install numpy
